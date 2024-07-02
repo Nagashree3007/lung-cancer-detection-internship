@@ -34,6 +34,7 @@ The final presentation presented in class is found here: [Final Presentation](ht
 * Define a function to plot the 3D images
 * Visualize segmented lungs
 * Save preprocessed data to a separate script
+* 
 * Convolution
 
 ## Skills Used
